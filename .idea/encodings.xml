@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/shopeemall-coupon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopeemall-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopeemall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopeemall-storage/src/main/java" charset="UTF-8" />
+  </component>
+</project>

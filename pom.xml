@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>com.libowei</groupId>
-    <artifactId>shopee-mall</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>com.libowei.shopeemall</groupId>
+    <artifactId>shopeemall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>shopeemall</name>
+    <description>Integration</description>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>shopeemall-product</module>
+        <module>shopeemall-coupon</module>
+        <module>shopeemall-member</module>
+        <module>shopeemall-order</module>
+        <module>shopeemall-storage</module>
+    </modules>
 </project>

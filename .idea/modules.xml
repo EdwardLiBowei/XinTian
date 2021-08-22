@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopee-mall.iml" filepath="$PROJECT_DIR$/shopee-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopeemall-coupon/shopeemall-coupon.iml" filepath="$PROJECT_DIR$/shopeemall-coupon/shopeemall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopeemall-member/shopeemall-member.iml" filepath="$PROJECT_DIR$/shopeemall-member/shopeemall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopeemall-order/shopeemall-order.iml" filepath="$PROJECT_DIR$/shopeemall-order/shopeemall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopeemall-storage/shopeemall-storage.iml" filepath="$PROJECT_DIR$/shopeemall-storage/shopeemall-storage.iml" />
+    </modules>
+  </component>
+</project>

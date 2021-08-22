@@ -8,10 +8,10 @@
         <version>2.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.libowei.shopeemall</groupId>
-    <artifactId>shopeemall-product</artifactId>
+    <groupId>com.libowei</groupId>
+    <artifactId>shopeemall-storage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>shopeemall-product</name>
+    <name>shopeemall-storage</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>

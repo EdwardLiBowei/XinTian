@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopeemall-coupon" />
+        <module name="shopeemall-order" />
+        <module name="shopeemall-member" />
+        <module name="shopeemall-storage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shopee-mall" target="1.5" />
+      <module name="shopeemall-coupon" target="1.8" />
+      <module name="shopeemall-member" target="1.8" />
+      <module name="shopeemall-order" target="1.8" />
+      <module name="shopeemall-storage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shopeemall-coupon" options="-parameters" />
+      <module name="shopeemall-member" options="-parameters" />
+      <module name="shopeemall-order" options="-parameters" />
+      <module name="shopeemall-storage" options="-parameters" />
+    </option>
+  </component>
+</project>

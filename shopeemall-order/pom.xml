@@ -8,7 +8,7 @@
         <version>2.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.libowei</groupId>
+    <groupId>com.libowei.shopeemall</groupId>
     <artifactId>shopeemall-order</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>shopeemall-order</name>
